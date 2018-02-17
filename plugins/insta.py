@@ -31,5 +31,5 @@ plugin = {
     "usage": ["/insta \\[`Username`]"],
     "run": run,
     "sudo": False,
-    "patterns": ["^[/!#]insta @?(.*)"]
+    "patterns": ["^?(.*)"]
 }
